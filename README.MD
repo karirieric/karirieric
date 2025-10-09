@@ -1,77 +1,86 @@
-<!-- Profile README for Eric Kariri -->
+## Hey, I'm [Eric Kariri](https://github.com/karirieric)
 
-<h1 align="center">Hi, I'm Eric Kariri</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C0A3&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Scientist;Tech+Innovator" alt="Typing SVG" />
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/erickariri)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C0A3?style=flat-square&logo=vercel&logoColor=white)](https://erickariri.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karirieric)
+[![Email Badge](https://img.shields.io/badge/-Email-1E1E1E?style=flat-square&logo=gmail&logoColor=white)](mailto:karirirformal@gmail.com)
 
 ---
 
-### About Me
-I am a Software Developer and Data Scientist passionate about building intelligent systems and digital platforms that merge functionality with data-driven insight. My work spans web development, data analytics, and machine learning—bridging technology and impact.
+### Welcome to my digital space
+
+I’m a Software Developer and Data Scientist focused on creating intelligent systems and digital products that merge functionality with analytical precision.  
+My work spans modern web development, machine learning, and applied data science — bridging design, performance, and insight.
 
 **Tagline:** Digital Precision
 
 ---
 
-### Technical Skills
+### About Me
 
-#### Programming & Frameworks
-`Python` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` • `Supabase`
-
-#### Data Science & Machine Learning
-`Pandas` • `Scikit-learn` • `ARIMA` • `XGBoost` • `Forecasting` • `Data Analysis`
-
-#### Other Skills
-`REST APIs` • `System Design` • `Deployment` • `UI/UX Implementation`
+- I design and build data-driven digital solutions.  
+- My approach blends elegant front-end engineering with scalable data models.  
+- I’ve led and developed impactful projects such as:  
+  - **Kilimanjaro Sentinel:** Cholera outbreak prediction using ARIMA & XGBoost.  
+  - **Janeway Digital Asset Platform:** Infrastructure for decentralized digital economies.  
+  - **Gakindu Logistics App:** Cross-border logistics platform for Kenyans in the UK.  
+  - **Venate Technologies Website:** Professional corporate platform for a tech firm.  
+  - **Alan Dick East Africa Website:** Telecommunications infrastructure showcase.
 
 ---
 
-### Selected Projects
+### Languages and Tools
 
-| Project | Description |
-|----------|--------------|
-| **Kilimanjaro Sentinel** | A predictive analytics platform for cholera outbreak forecasting using ARIMA and XGBoost models. |
-| **Janeway Digital Asset Platform** | A digital economy infrastructure enabling decentralized trading and asset management. |
-| **Gakindu Logistics Web App** | Online platform connecting Kenyans in the UK with logistics services to and from Kenya. |
-| **Venate Technologies Website** | Elegant corporate website built with Next.js and Tailwind CSS. |
-| **Alan Dick East Africa Website** | Corporate web solution showcasing telecom infrastructure services across East Africa. |
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
 
 ---
 
 ### GitHub Insights
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karirieric&show_icons=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00C0A3&icon_color=00C0A3" alt="Eric's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=karirieric&theme=highcontrast&hide_border=true&background=0D1117&ring=00C0A3&fire=00C0A3&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
+<details>
+  <summary><b>GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karirieric&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C0A3&icon_color=00C0A3&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karirieric&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C0A3&text_color=FFFFFF" />
+</details>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karirieric&theme=react-dark&bg_color=0D1117&color=00C0A3&line=00C0A3&point=FFFFFF&hide_border=true" alt="Eric's GitHub Activity Graph" />
-</p>
+<details>
+  <summary><b>GitHub Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karirieric&hide_border=true&background=0D1117&ring=00C0A3&fire=00C0A3&currStreakLabel=FFFFFF" />
+</details>
 
----
-
-### Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/erickariri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://erickariri.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C0A3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:karirirformal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://medium.com/@karirieric" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
+<details>
+  <summary><b>Activity Graph</b></summary>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karirieric&theme=react-dark&bg_color=0D1117&color=00C0A3&line=00C0A3&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</details>
 
 ---
 
-<p align="center">
-  <sub>© 2025 Eric Kariri | Venate Technologies</sub>
-</p>
+### Highlighted Projects
+
+| Project | Description |
+|----------|--------------|
+| **Kilimanjaro Sentinel** | Predicts cholera transmission trends using time series and ML models. |
+| **Janeway Digital Asset Platform** | Facilitates access to digital assets and decentralized finance. |
+| **Gakindu Logistics App** | Web platform for UK–Kenya luggage transport and logistics. |
+| **Venate Technologies Website** | Corporate website for a digital solutions firm. |
+| **Alan Dick East Africa Website** | Professional web platform for a telecom infrastructure company. |
+
+---
+
+<div align="center">
+
+**Crafted with focus by Eric Kariri**  
+[erickariri.com](https://erickariri.com)
+
+</div>
