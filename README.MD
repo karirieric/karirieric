@@ -73,5 +73,5 @@ I am a Software Developer and Data Scientist passionate about building intellige
 ---
 
 <p align="center">
-  <sub>© 2025 Eric Kariri | Digital Precision</sub>
+  <sub>© 2025 Eric Kariri | Venate Technologies</sub>
 </p>
