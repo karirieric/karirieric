@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/erickariri)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C0A3?style=flat-square&logo=vercel&logoColor=white)](https://erickariri.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@karirieric)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kariri)
 [![Email Badge](https://img.shields.io/badge/-Email-1E1E1E?style=flat-square&logo=gmail&logoColor=white)](mailto:karirirformal@gmail.com)
 
 ---
