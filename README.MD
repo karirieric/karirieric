@@ -9,7 +9,7 @@
 
 ### Welcome to my digital space
 
-I’m a Software Developer and Data Scientist who creates intelligent systems and digital products that merge functionality with analytical precision.  
+I’m a Software Developer and Data Scientist who creates intelligent systems and digital products that merge functionality and analytics embedded.  
 My work spans modern web development, machine learning, and applied data science — bridging design, performance, and insight.
 
 
