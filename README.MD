@@ -77,7 +77,6 @@ My work spans modern web development, machine learning, and applied data science
 
 <div align="center">
 
-**Crafted by Eric Kariri**  
-[erickariri.com](https://erickariri.com)
+
 
 </div>
