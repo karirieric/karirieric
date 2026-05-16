@@ -1,82 +1,29 @@
-## Hey, I'm [Eric Kariri](https://github.com/karirieric)
+# Eric Kariri
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/erickariri)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C0A3?style=flat-square&logo=vercel&logoColor=white)](https://erickariri.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kariri)
-[![Email Badge](https://img.shields.io/badge/-Email-1E1E1E?style=flat-square&logo=gmail&logoColor=white)](mailto:karirirformal@gmail.com)
+**Software Developer | Data Scientist**
 
----
+[LinkedIn](https://linkedin.com/in/erickariri) • [Portfolio](https://erickariri.com) • [Medium](https://medium.com/@kariri) • [Email](mailto:kaririformal@gmail.com)
 
-### Welcome to my digital space
+I build intelligent digital products and data-driven systems at the intersection of software engineering, machine learning, and applied analytics.
 
-I’m a Software Developer and Data Scientist who creates intelligent systems and digital products that merge functionality and analytics embedded.  
-My work spans modern web development, machine learning, and applied data science.
+My focus is on creating solutions that are scalable, practical, and user-centered, with equal attention to sound engineering and meaningful insight.
 
----
+## Core Focus
 
-### About Me
+Full-stack web development, machine learning, applied data science, and product-focused engineering.
 
-- I design and build data-driven digital solutions.  
-- My approach blends elegant front-end engineering with scalable data models.  
-- I’ve led and developed impactful projects such as:  
-  - **Kilimanjaro Sentinel:** Cholera outbreak prediction using ARIMA & XGBoost.  
-  - **Janeway Digital Asset Platform:** Infrastructure for decentralized digital economies.  
-  - **Gakindu Logistics App:** Cross-border logistics platform for Kenyans in the UK.  
-  - **Venate Technologies Website:** Professional corporate platform for a tech firm.  
-  - **Alan Dick East Africa Website:** Telecommunications infrastructure showcase.
+## Technologies
 
----
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+</p>
 
-### Languages and Tools
+## Approach
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
-
----
-
-### GitHub Insights
-
-<details>
-  <summary><b>GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karirieric&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C0A3&icon_color=00C0A3&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karirieric&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C0A3&text_color=FFFFFF" />
-</details>
-
-<details>
-  <summary><b>GitHub Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karirieric&hide_border=true&background=0D1117&ring=00C0A3&fire=00C0A3&currStreakLabel=FFFFFF" />
-</details>
-
-<details>
-  <summary><b>Activity Graph</b></summary>
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karirieric&theme=react-dark&bg_color=0D1117&color=00C0A3&line=00C0A3&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</details>
-
----
-
-### Highlighted Projects
-
-| Project | Description |
-|----------|--------------|
-| **Kilimanjaro Sentinel** | Predicts cholera transmission trends using time series and ML models. |
-| **Janeway Digital Asset Platform** | Facilitates access to digital assets and decentralized finance. |
-| **Gakindu Logistics App** | Web platform for UK–Kenya luggage transport and logistics. |
-| **Venate Technologies Website** | Corporate website for a digital solutions firm. |
-| **Alan Dick East Africa Website** | Professional web platform for a telecom infrastructure company. |
-
----
-
-<div align="center">
-
-
-
-</div>
+I value clarity, reliability, and data-informed decision-making in the products I build.
